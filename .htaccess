@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Password Protected Area"
+AuthUserFile "C:\Users\rachel\Desktop\Openpolytechnic-5298\BIT607 Web Development\Assessment2\Haukai restaurant\.htpassword"
+Require valid-user
