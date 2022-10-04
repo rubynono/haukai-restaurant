@@ -411,12 +411,17 @@ input,select{
 .schedule-container{
     border: 1px solid black;  
 }
+.td, th {
+    border: 1px solid #999;
+    padding: 0.5rem;
+  }
+  
 /*.schedule-container tr{
     margin-left:auto;
     margin-right:auto;
 }
 
-.schedule-container tr th {
+
     background: lightblue;
     text-align: center;
     font-weight: bold;
