@@ -433,7 +433,7 @@ input,select{
 
 
 /*page footer*/
-footer{
+.footer{
     background-color: black;
     color: white;
     height: 50px;
