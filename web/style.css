@@ -409,10 +409,11 @@ input,select{
 /*work schedule*/
 .schedule-container{
     border: 1px solid black;
-}
-.schedule-container table{
     margin-left:auto;
     margin-right:auto;
+}
+.schedule-container table{
+    
 }
 
 .content-table thead tr {
