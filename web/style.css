@@ -406,16 +406,17 @@ input,select{
     text-align:center;
 }
 
+
 /*work schedule*/
 .schedule-container{
     border: 1px solid black;  
 }
-.schedule-container table{
+.schedule-container tr{
     margin-left:auto;
     margin-right:auto;
 }
 
-.schedule-container table th {
+.schedule-container tr th {
     background: lightblue;
     text-align: center;
     font-weight: bold;
