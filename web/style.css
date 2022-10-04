@@ -409,31 +409,22 @@ input,select{
 /*work schedule*/
 .schedule-container{
     border: 1px solid black;
+    
+}
+.schedule-container table{
     margin-left:auto;
     margin-right:auto;
 }
-.schedule-container table{
-    
+.thead{
+    font-style:bold;
 }
-
-.content-table thead tr {
-    background-color: #009879;
-    color: #ffffff;
+.th {
+    background: lightblue;
     text-align: center;
     font-weight: bold;
-}
-.content-table th,
-.content-table td{
-    padding: 12px 15px;
+    padding: 0.5rem;
 }
 
-.content-table tbody tr{
-    border-bottom: 1px solid #dddddd;
-}
-.content-table tbody tr:nth-of-type(even){
-    background-color: #f3f3f3;
-}
-.content-table tbody tr:last-of-type
 
 
 
