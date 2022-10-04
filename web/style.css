@@ -408,8 +408,7 @@ input,select{
 
 /*work schedule*/
 .schedule-container{
-    border: 1px solid black;
-    
+    border: 1px solid black;  
 }
 .schedule-container table{
     margin-left:auto;
