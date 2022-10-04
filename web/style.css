@@ -414,10 +414,8 @@ input,select{
     margin-left:auto;
     margin-right:auto;
 }
-.thead{
-    font-style:bold;
-}
-.th {
+
+.schedule-container table th {
     background: lightblue;
     text-align: center;
     font-weight: bold;
