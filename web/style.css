@@ -408,26 +408,26 @@ input,select{
 
 
 /*work schedule*/
-.schedule-container{
-    border: 1px solid black;  
+table{
+    margin-top: 150px;
+    margin-left: 150px;
+    border-spacing: 0;
+    float: center;
 }
-td, th {
-    border: 1px solid #999;
-    padding: 0.5rem;
-  }
-
-/*.schedule-container tr{
-    margin-left:auto;
-    margin-right:auto;
-}
-
-
-    background: lightblue;
+td{
+    width: 200px;
+    border: 1px solid black;
+    height: 40px;
     text-align: center;
-    font-weight: bold;
-    padding: 0.5rem;
-}*/
-
+}
+.row{
+    background-color:yellow;
+    text-align: center;
+}
+th{
+    height: 30px;
+    border: 1px solid black;
+}
 
 
 
