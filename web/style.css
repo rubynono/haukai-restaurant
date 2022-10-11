@@ -409,10 +409,10 @@ input,select{
 
 /*work schedule*/
 .schedule{
-    margin-top: 150px;
-    margin-left: 150px;
-    border-spacing: 0;
-    float: center;
+    margin-right: auto;
+    margin-left: auto;
+    /*border-spacing: 0;
+    float: center;*/
 }
 td{
     width: 200px;
